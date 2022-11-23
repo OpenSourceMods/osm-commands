@@ -1,6 +1,6 @@
--- Made By Open Source Modifications © 2022
--- Join Our Official Discord for support: https://discord.gg/ptEkC6Ym9w
--- Thankyou for choosing Open Source Modifications!
+Made By Open Source Modifications © 2022
+Join Our Official Discord for support: https://discord.gg/ptEkC6Ym9w
+Thankyou for choosing Open Source Modifications!
 
 Step 1. Drag And Drop into your resources folder 
 
