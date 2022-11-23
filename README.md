@@ -18,6 +18,6 @@ COMMANDS!!
 - /me
 - /do
 
-Preview: [`https://streamable.com/d6lnda`]
+https://streamable.com/d6lnda
 
 Image [``]
