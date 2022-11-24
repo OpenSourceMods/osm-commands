@@ -2,7 +2,7 @@ Made By Open Source Modifications © 2022
 Join Our Official Discord for support: https://discord.gg/ptEkC6Ym9w
 Thankyou for choosing Open Source Modifications!
 
-This is a basic chat comamnd package with various different commands!
+This is a basic chat command package with various different commands!
 
 Step 1. Drag And Drop into your resources folder 
 
